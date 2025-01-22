@@ -1,0 +1,6 @@
+
+/BackSRC/AlmoxerifadoSLN/.vs
+/BackSRC/AlmoxerifadoSLN/AlmoxerifadoAPI/bin
+/BackSRC/AlmoxerifadoSLN/AlmoxerifadoAPI/obj
+*.user
+*.csproj
